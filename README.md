@@ -2,7 +2,7 @@
 
 A responsive and modern landing page design built with HTML, CSS, and Bootstrap.
 
-![Demo](assets/demo.gif)
+![Demo](demo.gif)
 
 ## Features
 - Fully responsive design
